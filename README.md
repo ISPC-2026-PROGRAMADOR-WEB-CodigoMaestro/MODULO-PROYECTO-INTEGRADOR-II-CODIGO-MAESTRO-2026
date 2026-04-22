@@ -17,3 +17,18 @@ Esta problemática se desarrolla en un contexto donde la tecnología y la digita
 La identificación de este problema surge a partir de la observación de situaciones concretas en el entorno cotidiano, donde se repite el mismo patrón: personas que necesitan resolver un problema, recurren a medios informales y experimentan dudas o resultados insatisfactorios. Estos pain points permitieron reconocer la necesidad de una solución que reduzca la incertidumbre, mejore la confianza y facilite la conexión entre clientes y profesionales.
 
 En este marco, nace la propuesta de ServiMatch, una aplicación web orientada a organizar y transparentar el proceso de búsqueda y contratación de servicios de oficios, brindando herramientas como verificación de identidad, calificaciones reales, historial de trabajos y comunicación directa entre las partes.
+
+
+## 📋 Listado de Requerimientos
+
+### ✅ Requerimientos Funcionales
+
+- **RF1:** El usuario podrá registrarse en la plataforma mediante un formulario con sus datos personales.  
+- **RF2:** El usuario podrá iniciar sesión utilizando su correo electrónico y contraseña.  
+- **RF3:** El usuario podrá buscar profesionales filtrando por tipo de oficio y ubicación.  
+- **RF4:** El usuario podrá visualizar un listado de profesionales disponibles según los criterios de búsqueda.  
+- **RF5:** El usuario podrá acceder al perfil detallado de cada profesional, incluyendo datos personales, experiencia, calificaciones y trabajos realizados.  
+- **RF6:** El profesional podrá editar su información, experiencia y datos de contacto.  
+- **RF7:** El administrador podrá validar la identidad de los profesionales antes de que sean visibles en la plataforma.  
+- **RF8:** El administrador podrá gestionar los usuarios registrados (alta, baja o modificación).  
+- **RF9:** El sistema permitirá almacenar y mostrar calificaciones y opiniones de los usuarios sobre los profesionales.
