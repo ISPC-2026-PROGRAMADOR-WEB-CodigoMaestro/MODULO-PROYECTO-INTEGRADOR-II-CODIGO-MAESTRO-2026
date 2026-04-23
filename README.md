@@ -32,3 +32,18 @@ En este marco, nace la propuesta de ServiMatch, una aplicación web orientada a 
 - **RF7:** El administrador podrá validar la identidad de los profesionales antes de que sean visibles en la plataforma.  
 - **RF8:** El administrador podrá gestionar los usuarios registrados (alta, baja o modificación).  
 - **RF9:** El sistema permitirá almacenar y mostrar calificaciones y opiniones de los usuarios sobre los profesionales.
+
+##  Requerimientos No Funcionales
+
+- **RNF1:** Diseño Responsivo
+La interfaz debe adaptarse correctamente a dispositivos móviles, tablets y computadoras utilizando diseño responsive (por ejemplo, Bootstrap).
+- **RNF2:** Usabilidad
+La aplicación debe ser intuitiva y fácil de usar, permitiendo que un usuario pueda buscar y contactar un profesional en pocos pasos.
+- **RNF3:** Seguridad
+El sistema debe proteger los datos personales de los usuarios mediante autenticación segura y almacenamiento cifrado de contraseñas.
+- **RNF4:** Validación de Datos
+ El sistema no debe permitir el envío de formularios con campos vacíos o datos inválidos (como correos electrónicos incorrectos).
+- **RNF5:** Rendimiento
+El sistema debe responder a las búsquedas y acciones del usuario en un tiempo adecuado.
+- **RNF6:** Integridad de Datos (Persistencia)
+El sistema debe garantizar que los datos almacenados en la base de datos MySQL no se pierdan ni se corrompan ante fallos del sistema.
