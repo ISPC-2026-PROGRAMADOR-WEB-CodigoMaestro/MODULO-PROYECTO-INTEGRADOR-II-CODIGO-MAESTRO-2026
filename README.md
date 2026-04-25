@@ -18,6 +18,15 @@ La identificación de este problema surge a partir de la observación de situaci
 
 En este marco, nace la propuesta de ServiMatch, una aplicación web orientada a organizar y transparentar el proceso de búsqueda y contratación de servicios de oficios, brindando herramientas como verificación de identidad, calificaciones reales, historial de trabajos y comunicación directa entre las partes.
 
+## ⚠️ Solución Propuesta
+
+Como respuesta a la problemática identificada, se propone el desarrollo de ServiMatch, una aplicación web diseñada para facilitar la búsqueda y contratación de trabajadores de oficios de manera segura, confiable y organizada.
+La plataforma permitirá a los usuarios registrarse e iniciar sesión para acceder a un sistema de búsqueda de profesionales, donde podrán filtrar por tipo de oficio y ubicación. A partir de esta búsqueda, podrán visualizar un listado de profesionales disponibles y acceder a sus perfiles detallados, los cuales incluirán información relevante como experiencia, trabajos realizados y calificaciones de otros usuarios.
+Por otro lado, los trabajadores de oficio podrán registrarse en la plataforma, crear su perfil profesional y gestionar su información, lo que les permitirá aumentar su visibilidad y acceder a nuevas oportunidades laborales. Además, el sistema contará con la validación de perfiles por parte de un administrador, con el objetivo de garantizar mayor seguridad y confianza en la plataforma.
+Esta solución está dirigida tanto a personas que necesitan contratar servicios de oficios como a profesionales independientes que buscan promocionar su trabajo en un entorno confiable.
+El valor principal de ServiMatch radica en reducir la incertidumbre presente en los métodos tradicionales de búsqueda, ofreciendo una plataforma centralizada que brinda transparencia, confianza y seguridad. Esto se logra mediante la verificación de identidad de los profesionales, la visualización de calificaciones reales y la organización de la información en un único sistema accesible.
+De esta manera, ServiMatch mejora significativamente la experiencia de los usuarios al momento de contratar servicios, al mismo tiempo que contribuye a formalizar y profesionalizar el sector de oficios.
+
 
 ## 📋 Listado de Requerimientos
 
@@ -47,3 +56,4 @@ El sistema debe proteger los datos personales de los usuarios mediante autentica
 El sistema debe responder a las búsquedas y acciones del usuario en un tiempo adecuado.
 - **RNF6:** Integridad de Datos (Persistencia)
 El sistema debe garantizar que los datos almacenados en la base de datos MySQL no se pierdan ni se corrompan ante fallos del sistema.
+
