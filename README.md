@@ -27,7 +27,6 @@ Esta solución está dirigida tanto a personas que necesitan contratar servicios
 El valor principal de ServiMatch radica en reducir la incertidumbre presente en los métodos tradicionales de búsqueda, ofreciendo una plataforma centralizada que brinda transparencia, confianza y seguridad. Esto se logra mediante la verificación de identidad de los profesionales, la visualización de calificaciones reales y la organización de la información en un único sistema accesible.
 De esta manera, ServiMatch mejora significativamente la experiencia de los usuarios al momento de contratar servicios, al mismo tiempo que contribuye a formalizar y profesionalizar el sector de oficios.
 
-
 ## 📋 Listado de Requerimientos
 
 ### ✅ Requerimientos Funcionales
@@ -57,3 +56,7 @@ El sistema debe responder a las búsquedas y acciones del usuario en un tiempo a
 - **RNF6:** Integridad de Datos (Persistencia)
 El sistema debe garantizar que los datos almacenados en la base de datos MySQL no se pierdan ni se corrompan ante fallos del sistema.
 
+## 🔗 Enlaces importantes
+
+- 🌐 [Tablero Agil](https://trello.com/b/TgbWRAPi/proyecto-integrador-ii-ev1)
+ 
